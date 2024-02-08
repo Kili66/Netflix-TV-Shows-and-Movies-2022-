@@ -5,4 +5,5 @@ This dataset contains information on all of the movies and TV shows available on
 
 ### Looker Studio Report
 * https://lookerstudio.google.com/reporting/19ec7897-198a-469a-95dc-1695ce891f08
+  ![2024-02-08 20_02_32-Courrier](https://github.com/Kili66/Netflix-TV-Shows-and-Movies-2022-/assets/66678981/9e2fb6b2-5e07-409d-a7fc-d04fd5cd908c)
   
